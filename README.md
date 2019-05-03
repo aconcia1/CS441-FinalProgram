@@ -1,2 +1,1 @@
-The need for a readme
-I need this to import xcode
+The objective of this app is to recreate the very first room in the game "Metroid Zero Mission". It will utilize sprites and environments from the game for me to use when recreating the details of the first room. There will be buttons at 40% opacity so you can see through them and not have the buttons be too small. The controls will be very close the original game with some differences in how the movement and aim works in order to make playing it on a phone less painful.
