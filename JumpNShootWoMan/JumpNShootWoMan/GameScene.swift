@@ -18,8 +18,16 @@ class GameScene: SKScene {
     private var label : SKLabelNode?
     private var spinnyNode : SKShapeNode?
     
+    let samus = SKSpriteNode(imageNamed:"placeholder")
+    let aButton = SKSpriteNode(imageNamed:"a-button")
+    let bButton = SKSpriteNode(imageNamed:"b-button")
+    let rButton = SKSpriteNode(imageNamed:"r-button")
+    let lButton = SKSpriteNode(imageNamed:"l-button")
+    let imageName = "backgroundCave"
+    
     override func didMove(to view: SKView) {
         
+        view.layer.contents = UIImage(named: "backgroundCave")?.cgImage
     }
     
     override func touchesBegan(_ touches: Set<UITouch>, with event: UIEvent?) {
