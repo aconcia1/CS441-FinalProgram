@@ -517,6 +517,7 @@
 				16733A68227A1D9900B2806A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		16733A69227A1D9900B2806A /* Build configuration list for PBXNativeTarget "JumpNShootWoManTests" */ = {
 			isa = XCConfigurationList;
@@ -525,6 +526,7 @@
 				16733A6B227A1D9900B2806A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		16733A6C227A1D9900B2806A /* Build configuration list for PBXNativeTarget "JumpNShootWoManUITests" */ = {
 			isa = XCConfigurationList;
@@ -533,6 +535,7 @@
 				16733A6E227A1D9900B2806A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
